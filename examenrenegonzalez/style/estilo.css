@@ -1,0 +1,48 @@
+.body{
+    background-color: aquamarine;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+    object-fit: contain;
+}
+
+.comando{
+    background-color: black;
+    color: rgb(0, 255, 0);
+}
+
+#botton_Kubuntu{
+    background-color: silver;
+
+}
+
+#botton_Kubuntu:hover{
+    background-color: aqua;
+}
+
+#botton_CentOS{
+    background-color: orange;
+}
+
+#botton_CentOS:hover{
+    background-color: red;
+}
+
+#botton_arch{
+    background-color: blue;
+}
+
+#botton_arch:hover{
+    background-color: black;
+}
+
+
+#botton_debian{
+    background-color: purple;
+}
+
+#botton_debian:hover{
+    background-color: rebeccapurple;
+}
